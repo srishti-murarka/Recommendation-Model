@@ -73,7 +73,7 @@ Note: Create a Virtual Env before running the below commands
    cd backend && python trendsAnalyzer.py && cd ..
    ```
 
-1) Start the Frontend Server
+1) Start the Frontend Server.
    ```bash
    cd frontend && yarn build && yarn preview
    ```

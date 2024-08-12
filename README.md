@@ -15,7 +15,7 @@ Onboarding                     |  Search Page                |  Chat Page       
 ## Team Members
 
 - [Srishti Murarka](https://github.com/srishti-murarka)
-- [Sanya Singh](https://github.com/sanyaya-yaya)
+- [Sanya](https://github.com/sanyaya-yaya)
 - [Shlok Agrawal](https://github.com/shloki-loki)
 
 ## How it works
